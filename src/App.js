@@ -26,6 +26,10 @@ class App extends Component {
           <div className="one-third column">
             <p>Yo</p> 
           </div> 
+
+          <div className="one-fifth column">
+            <p>Yooo</p>
+          </div>
         </div> 
       </div>
     );
