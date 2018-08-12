@@ -13,6 +13,20 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
+
+        <div className="container">
+          <div class="one-third column">
+            <p>Hello</p>
+          </div> 
+
+          <div className="one-third column">
+            <p>Hi</p> 
+          </div> 
+
+          <div className="one-third column">
+            <p>Yo</p> 
+          </div> 
+        </div> 
       </div>
     );
   }
